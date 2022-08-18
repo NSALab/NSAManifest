@@ -1,6 +1,8 @@
 # NSAManifest
 Манифест команды NSALab (https://nsalab.org/)
 
+![изображение](https://user-images.githubusercontent.com/111519369/185442247-c385ded1-2b81-401d-ae9c-57d6b73e6ec4.png)      
+
 Лаборатория администрирования сетевых систем (<b>Network
 Systems Administration Lab, NSALAB (https://nsalab.org/)</b>) была официально
 организована в 2017 году, как выделенное структурное
